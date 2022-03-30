@@ -1,0 +1,131 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', sans-serif;
+}
+hr {
+  margin: 75px auto 75px auto;
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 3%;
+}
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+  line-height: 2;
+}
+h2{
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 25px;
+  color: #66BFBF;
+  font-weight: normal;
+}
+h3{
+  color: #66BFBF;
+}
+.hello{
+  position: relative;
+  margin-top: 30px;
+}
+.skill-row{
+  margin: 70px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 30px;
+}
+.computer{
+  width: 25%;
+  float: left;
+  padding-right: 20px;
+}
+.logic{
+  width: 24%;
+  float: right;
+  padding-left: 20px;
+}
+.top-box {
+  background-image: linear-gradient(#E4F9F5, white);
+  position: relative;
+  padding-top: 100px;
+}
+.bottom-container{
+  word-spacing: 30px;
+  font-size: 1rem;
+  line-height: 40px;
+  padding: 20px 0 20px 0;
+  background-color: #66BFBF;
+  font-family: "Montserrat", sans-serif;
+}
+a{
+  font-family: "Montserrat", sans-serif;
+  color: #11999E;
+  text-decoration: none;
+}
+a:hover{
+  color: white;
+}
+.links:hover{
+  color: white;
+}
+.signature{
+  word-spacing: 0px;
+}
+.text{
+  position: relative;
+}
+.bot_cloud{
+  position: absolute;
+  left: 300px;
+  top: 75px;
+}
+.top_cloud{
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+.middle-container{
+  padding-top: 20px;
+}
+.contact-me{
+  margin: 100px auto 100px auto;
+  line-height: 50px;
+}
+.pro {
+  text-decoration: underline;
+}
+.intro{
+  margin-top: 15px;
+}
+.btn {
+  background: #66BFBF;
+  background-image: -webkit-linear-gradient(top, #66BFBF, #66BFBF);
+  background-image: -moz-linear-gradient(top, #66BFBF, #66BFBF);
+  background-image: -ms-linear-gradient(top, #66BFBF, #66BFBF);
+  background-image: -o-linear-gradient(top, #66BFBF, #66BFBF);
+  background-image: linear-gradient(to bottom, #66BFBF, #66BFBF);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #1f628d;
+  background-image: -webkit-linear-gradient(top, #11999E, #11999E);
+  background-image: -moz-linear-gradient(top, #11999E,#11999E);
+  background-image: -ms-linear-gradient(top, #11999E, #11999E);
+  background-image: -o-linear-gradient(top, #11999E, #11999E);
+  background-image: linear-gradient(to bottom, #11999E, #11999E);
+  text-decoration: none;
+}
+.signature{
+  color: white;
+}
